@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Hand Gesture Controlled System](https://github.com/DipsonAdhikari/Gestureflow_webapp)
 
-- 🌱 I’m currently learning **CSS**
+- 🌱 I’m currently learning **JAVASCRIPT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DipsonAdhikari](https://github.com/DipsonAdhikari)
 
