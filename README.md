@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://www.facebook.com/Dipson.Adhikari.15/**
 
-- ⚡ Fun fact **I am working on AI/ML project but i am just learning basic Web-Developement**
+- ⚡ Fun fact **I am more interested in Computer Hardware and Technology than Software Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
