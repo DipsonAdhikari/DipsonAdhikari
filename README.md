@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Computers and Tech**
 
-- 📫 How to reach me **https://www.facebook.com/dipson.adhikari.77/**
+- 📫 How to reach me **https://www.facebook.com/Dipson.Adhikari.15/**
 
 - ⚡ Fun fact **I am working on AI/ML project but i am just learning basic Web-Developement**
 
