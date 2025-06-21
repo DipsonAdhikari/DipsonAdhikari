@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on SWIFTO- A Quick Commerce Platform
 
-- 🌐💻📡 I am intrested in Computer Networking. Has strong knowledge of Computer Networks.
+- 🌐💻📡 I am intrested in Computer Networking and i have strong knowledge of Computer Networks.
   
 - 🌱 I’m currently learning System Design and DevOps
 
