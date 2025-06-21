@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dipson Adhikari</h1>
 <h3 align="center">A Computer Hardware and Software Enthusiast</h3>
 
-- 🔭 I’m currently working on [Hand Gesture Controlled System](https://github.com/DipsonAdhikari/Gestureflow_webapp)
+- 🔭 I’m currently working on SWIFTO- A Quick Commerce Platform
 
-- 🌱 I’m currently learning **JAVASCRIPT**
+- 🌱 I’m currently learning System Design and DevOps
 
 - 👨‍💻 All of my projects are available at [https://github.com/DipsonAdhikari](https://github.com/DipsonAdhikari)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://www.facebook.com/Dipson.Adhikari.15/**
 
-- ⚡ Fun fact **Bananas are berries, but strawberries are not!**
+- ⚡ Fun fact **Every one in this universe is made up of stardust**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
